@@ -35,6 +35,9 @@ $ pip3 install virtualenv
 ## [🔗](https://github.com/nvm-sh/nvm#install--update-script) Node
 
 ```bash
+# Atualiza os pacotes
+$ sudo apt-get update
+
 # Baixa e executa o script de instalação
 $ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 
