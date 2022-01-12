@@ -1,5 +1,15 @@
 # Guia de Instalação
 
+## # Pré Requisitos
+
+```bash
+# Atualiza os pacotes
+$ sudo apt-get update
+
+# Instala os pré-requisitos
+$ sudo apt-get install ca-certificates curl gnupg lsb-release
+```
+
 ## # Java
 
 ```bash
@@ -95,9 +105,6 @@ $ sudo apt-get install git-all
 ```bash
 # Atualiza os pacotes
 $ sudo apt-get update
-
-# Instala os pré-requisitos
-$ sudo apt-get install ca-certificates curl gnupg lsb-release
 
 # Adiciona o docker ao gerenciador de pacotes
 $ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
