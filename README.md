@@ -90,7 +90,7 @@ $ sudo apt-get update
 $ sudo snap install dbeaver-ce
 ```
 
-## # Git
+## [🔗](https://www.freecodecamp.org/news/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca/) Git
 
 ```bash
 # Atualiza os pacotes
