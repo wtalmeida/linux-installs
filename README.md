@@ -35,8 +35,8 @@ $ sudo apt-add-repository ppa:deadsnakes/ppa -y
 # Atualiza os pacotes
 $ sudo apt-get update
 
-# Instala o Python 3.8
-$ sudo apt-get install -y python3.8-dev python3.8-distutils python3.8-pip
+# Instala o Python 3
+$ sudo apt-get install -y python3-dev python3-distutils python3-pip
 
 # Instala o virtualenv
 $ pip3 install virtualenv
