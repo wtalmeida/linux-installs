@@ -104,6 +104,9 @@ $ sudo apt-get install git-all
 
 Ver = https://github.com/codeedu/wsl2-docker-quickstart
 
+Se o `docker ps` der problema de permissão ao executar:
+`sudo chmod 666 /var/run/docker.sock`
+
 ```bash
 # Atualiza os pacotes
 $ sudo apt-get update
