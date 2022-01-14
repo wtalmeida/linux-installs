@@ -102,6 +102,8 @@ $ sudo apt-get install git-all
 
 ## [🔗](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) Docker Engine
 
+Ver = https://github.com/codeedu/wsl2-docker-quickstart
+
 ```bash
 # Atualiza os pacotes
 $ sudo apt-get update
